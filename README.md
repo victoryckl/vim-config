@@ -1,4 +1,14 @@
 vim-config
 ==========
+cp -r .vimrc  ~/
+cp -r .vim    ~/
 
-vim config
+.vimrc
+.vim
+├── autoload
+├── bundle
+│ ├── command-t
+│ ├── nerdtree
+│ └── vim-powerline
+└── colors
+
